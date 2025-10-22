@@ -1,0 +1,6 @@
+{
+    "Auth": true,
+    "Authphp": true,
+    "Artisan": true,
+    "Migrate:fresh": true
+}
